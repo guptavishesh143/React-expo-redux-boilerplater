@@ -1,0 +1,5 @@
+{
+    "[javascript]": {
+        "editor.defaultFormatter": "schroeter.prettier-vscode-space-parenthesis"
+    }
+}

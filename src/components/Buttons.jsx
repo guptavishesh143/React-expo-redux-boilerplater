@@ -2,7 +2,6 @@ import React, { useState } from "react";
 import { Button as NBButton } from "native-base";
 import Feather from "react-native-vector-icons/Feather";
 import { ActivityLoader } from "./Loaders";
-import { screenWidth, screenHeight } from "../Utils/Dimensions";
 import { Box } from "native-base";
 import {
   SafeAreaView,
