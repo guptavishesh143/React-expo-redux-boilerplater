@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "nt-app",
-    "slug": "nt-app",
+    "name": "react-expo-redux-boilerplate",
+    "slug": "react-expo-redux-boilerplate",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
